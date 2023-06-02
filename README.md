@@ -30,3 +30,4 @@ python vk_friends.py -link "profile link"
 
 В консоль выводится список друзей в следующем формате
 
+![image](https://github.com/Tastyfruitloops/Protocols-api/blob/main/assets/sample.jpeg)
